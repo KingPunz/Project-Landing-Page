@@ -3,6 +3,7 @@
 .all {
     display:flex;
     flex-direction:column;
+    font-family:roboto;
 }
 
 a {
@@ -92,6 +93,33 @@ a {
     display:flex;
     flex-direction:column;
 }
-#imgs2 {
-    width:120px
+.img {
+    width:160px;
+    height:160px;
+    display:flex;
+    border:5px solid grey;
+    border-radius:8px;
 }
+.impros{
+  display:flex;
+  flex-direction:row; 
+  gap:15px; 
+  justify-content:center;
+  
+}
+.ci {
+    display:flex;
+    flex-direction:column;
+    width:160px;
+    margin:10px;
+    Font-size: 18px;
+    Color: grey; 
+}
+.header2 {
+    display:flex;
+    justify-content:center;
+}
+
+
+
+
