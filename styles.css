@@ -161,3 +161,52 @@ a {
     display:flex;
     font-size: 22px;
 }
+
+
+
+.fourth {
+display:flex;
+align-items:center;
+justify-content: center;
+margin:110px;
+}
+.bluebox {
+display:flex;
+background-color:#3882F6;
+align-items:center;
+justify-content: center;
+width:700px;
+border-radius:10px;
+padding:30px;
+justify-content:space-between;
+padding-left:150px;
+padding-right:150px;
+}
+#uno {
+display:flex;
+font-size:24px;
+font-weight:700;
+color:white;
+margin-bottom:4px;
+}
+#dos {
+display:flex;
+margin-top:4px;
+color:white;
+font-size:18px;
+}
+#tres {
+display:flex;
+font-weight:700;
+color:white;
+font-size:18px;
+border: 3px solid white;
+padding: 8px 30px;
+border-radius:5px;
+
+}
+.unodos {
+    
+    display:flex;
+    flex-direction: column;
+}
